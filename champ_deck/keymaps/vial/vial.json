@@ -1,4 +1,7 @@
 {
+    "name": "champ_deck",
+    "vendorID": "0x4642",
+    "productID": "0x0002",
     "lighting": "none",
     "matrix": {
         "rows": 2,
